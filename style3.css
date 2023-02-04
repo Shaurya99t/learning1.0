@@ -1,0 +1,34 @@
+body{
+    background-image: url("headphone.jpg");
+    color:purple;
+}
+
+}
+h2{
+    background-color: darkolivegreen;
+    color: sandybrown;
+    
+}
+h3{
+    background-color: darkorange;
+    color: sienna;
+text-align: right;
+}
+#heading1{
+    background-color:rosybrown
+}
+#para1{
+    background-color: aqua;
+    color: brown;
+    text-align: center;
+}
+marquee{
+    color: cyan;
+    height: 90px;
+    border-radius: 20px;
+    background-image: url("owl.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: darkblue;
+}

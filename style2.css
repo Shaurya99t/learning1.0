@@ -1,0 +1,21 @@
+body{
+    background-image: url("owl.jpg");
+    color: lightseagreen;
+}
+body{
+    background-color: cyan;
+
+}
+h1{
+    background-color:rebeccapurple;
+    text-align: center;
+
+}
+h3{
+    background-color: darkorange;
+}
+marquee{
+    color: darkred;
+    background-color: darkturquoise;
+
+}
